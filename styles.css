@@ -1,0 +1,22 @@
+.cuadrado{
+    display:inline;
+    background-color: aqua;
+    width: 500px;
+    height: 200px;
+    padding: 5px;
+}
+
+p{
+    display:inline-block;
+    background-color: blueviolet;
+    width: 300px;
+    height: 50px;
+}
+
+a{
+    
+    background-color: chocolate;
+    width: 400px;
+    height: 20px;
+    display: block; 
+}
